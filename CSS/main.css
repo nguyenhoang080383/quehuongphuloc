@@ -1,0 +1,37 @@
+.relative {
+    position: relative;
+
+}
+.absolute {
+    position: absolute;
+    top: 60px;
+    left: 400px;
+    color: white;
+    font-family: 'The Nautigal', cursive;
+}
+h1 {
+    font-size: 80px;
+}
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Hepta Slab', serif;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.column{
+    padding: 20px; 
+}
+.column-lr{
+    padding: 20px 0px; 
+}
+p {
+    text-align: justify;
+}
+ul.b {
+    list-style-type: square;
+  }

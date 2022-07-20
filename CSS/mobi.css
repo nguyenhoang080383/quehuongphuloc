@@ -1,0 +1,18 @@
+@media only screen and (max-width: 767px) {
+ 
+    .relative {
+        position: relative;
+    
+    }
+    .absolute {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        color: white;
+        font-family: 'The Nautigal', cursive;
+    }
+    h1 {
+        font-size: 30px;
+    }
+}
+    
